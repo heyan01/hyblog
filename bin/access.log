@@ -58,3 +58,13 @@ GET /lib/jquery/dist/jquery.js 304 - - 55.551 ms
 GET /lib/bootstrap/dist/js/bootstrap.js 304 - - 59.204 ms
 GET /lib/bootstrap/dist/css/bootstrap.css.map 304 - - 60.732 ms
 GET /favicon.ico 304 - - 30.439 ms
+GET /article/list?keyword=h - - - - ms
+GET / 302 70 - 467.394 ms
+GET /article/list 200 3808 - 604.982 ms
+GET /lib/bootstrap/dist/js/bootstrap.js 304 - - 101.478 ms
+GET /lib/jquery/dist/jquery.js 304 - - 165.908 ms
+GET /favicon.ico 200 1886 - 60.626 ms
+GET /article/add 200 2362 - 127.505 ms
+GET /lib/jquery/dist/jquery.js 304 - - 41.729 ms
+GET /lib/bootstrap/dist/js/bootstrap.js 304 - - 49.843 ms
+GET /favicon.ico 304 - - 35.975 ms
