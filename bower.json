@@ -1,0 +1,20 @@
+{
+  "name": "hyblog",
+  "description": "",
+  "main": "",
+  "authors": [
+    "heyan01 <419738474@qq.com>"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.6"
+  }
+}
